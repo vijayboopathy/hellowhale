@@ -1,2 +1,2 @@
 # hellowhale
-Simple Docker Demo App
+Kube-Jenkins CI demo app
